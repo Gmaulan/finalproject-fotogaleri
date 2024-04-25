@@ -1,0 +1,40 @@
+/* card.css */
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .logo-container IonAvatar {
+    margin-bottom: 100px;
+  }
+  
+  .logo-container img {
+    width: 500px; /* Adjust the size as needed */
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #514fff; /* Increase the border size and use a lighter color */
+    box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.2); /* Add a more prominent box shadow */
+  }
+  
+  .card-header {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.8em; /* Increase the font size further */
+    margin-bottom: 10px;
+    font-weight: bold; /* Add bold font weight */
+    color: #333; /* Darken the text color */
+  }
+  
+  .card-subtitle {
+    font-size: 1.2em; /* Increase the font size for the subtitle */
+    color: #555; /* Slightly darken the subtitle text color */
+  }
+  
+  /* You can add additional styles for IonCardContent or other elements as needed */
+  

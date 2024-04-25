@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vite": "5.2.6"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^6.0.0",
+    "@ionic/pwa-elements": "^3.2.2",
+    "@ionic/react": "^7.8.2",
+    "first-app": "^1.0.0"
+  }
+}
